@@ -2,10 +2,10 @@
     "title": "Perguntas",
     "lista": [
         {
-            "pergunta": "O que pensas da vida?",
-            "descricao": "Você acha que a vida é legal?",
-            "resposta": "A vida é legal",
-            "explicacao": "Porque sim ue"
+            "pergunta": "Quanto é 1 + 1?",
+            "descricao": "Dica: não é igual a 3",
+            "resposta": "A resposta é 2",
+            "explicacao": "Pois está realizando uma soma"
         },
         {
             "pergunta": "E a situação do país?",
